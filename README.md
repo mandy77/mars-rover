@@ -11,7 +11,9 @@ mvn clean install
 mvn test
 ```
 ##### To run the App:
-- Run the class App.java
+```bash
+java -jar target/mars-rover.jar
+```
 - Enter Rover starting position in this format: X Y Direction
 - Then enter commands to control the Rover: F, B, L or R
 - Type "exit" to stop the application
