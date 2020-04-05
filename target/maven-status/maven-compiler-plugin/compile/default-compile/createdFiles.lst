@@ -1,0 +1,11 @@
+com\model\Point.class
+com\controller\RoverController$1.class
+com\model\Obstacle$ObstacleBuilder.class
+com\model\Point$PointBuilder.class
+com\App.class
+com\model\Position.class
+com\model\Obstacle.class
+com\model\Rover.class
+com\controller\RoverController.class
+com\model\Position$PositionBuilder.class
+com\Direction.class
